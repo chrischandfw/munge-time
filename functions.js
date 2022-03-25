@@ -79,7 +79,7 @@ Output:
 */
 
 export function makeSpanishLanguageArray(arr) {
-    return [];
+    return [arr];
 }
 
 /*
@@ -93,7 +93,7 @@ Output:
 ]*/
 
 export function makeArrayWithIsHungry(arr) {
-    return [];
+    return [arr];
 }
 
 /*
@@ -107,7 +107,7 @@ Output:
 ]*/
 
 export function makeShoutingArray(arr) {
-    return [];
+    return [arr];
 }
 
 
